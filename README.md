@@ -10,7 +10,7 @@ Walking Coding
 - 밖에서 걸어가면서 코딩을 할 수 있는 환경에 대해서 연구한다.
 
 ### 목표
-- [x] : [colab]()
+- [ ] : [colab]()
 - [ ] : [visual code](목표 2 사이트)
 - [ ] : [goorom ide](목표 3 사이트)
 - [ ] : google cloud computing
